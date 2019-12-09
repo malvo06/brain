@@ -1,7 +1,7 @@
 ## ICH Detection
 
 ### Week 8
-Designed the front end of the flask app for the demo.
+Set up the flask app for the demo.
 
 ### Week 7
 Ran tests on different class weights to match the biases in the dataset.
